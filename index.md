@@ -1,1 +1,3 @@
-Ynvalid.com
+---
+layout: default
+---
